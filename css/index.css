@@ -1,1 +1,14 @@
 
+.picture1 { 
+    background : url(/images/baju\ kucing\ 1.jpg)
+   width: 850px;
+   height: 850px:
+   background-repeat: no-repeat;
+   background-size:cover;
+   }
+
+ .card-title {
+     top: 100px;
+ }
+
+ }
